@@ -13,7 +13,7 @@ Ein wesentlicher Sinn der Anwendung liegt in der Digitalisierung von Geschäftsa
 
 Darüber hinaus unterstützt QuickBon verschiedene Zahlungsarten, von Bargeld bis hin zu digitalen Zahlungsmethoden. 
 
-Dies entspricht den heutigen Kundenerwartungen und erhöht die Effizienz im Verkaufsprozess. Auch Funktionen wie Artikelverwaltung, Lagerübersicht oder Kundenverwaltung können integriert sein, wodurch das System über eine reine Kassenlösung hinausgeht.
+Dies entspricht den heutigen Kundenerwartungen und erhöht die Effizienz im Verkaufsprozess. Auch Funktionen wie Artikelverwaltung oder Kundenverwaltung können integriert sein, wodurch das System über eine reine Kassenlösung hinausgeht.
 
 Zusammengefasst liegt der Zweck von QuickBon darin, eine einfache, mobile und rechtssichere Alternative zu herkömmlichen Kassensystemen bereitzustellen.
 
